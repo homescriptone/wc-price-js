@@ -2,7 +2,7 @@
 
 A simple JavaScript function making it easy to convert a number into WooCommerce price.
 
-It's based on the code share by [HelgaTheViking](https://github.com/helgatheviking) in the [WooCommerce Slack Community](https://woocommercecommunity.slack.com/join/shared_invite/zt-1gbkltk7m-mYW~QNTY~GcBCHmngJnK2g)
+It's based on the code shared by [HelgaTheViking](https://github.com/helgatheviking) in the [WooCommerce Slack Community](https://woocommercecommunity.slack.com/join/shared_invite/zt-1gbkltk7m-mYW~QNTY~GcBCHmngJnK2g)
 
 # How to use it ?  
 -- PHP Code
